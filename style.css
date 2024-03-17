@@ -1,0 +1,25 @@
+#RECIPIENTE{
+    width: 100px;
+    height: 100px;
+}
+#TABULEIRODOJOGO{
+    border: 6px solid;
+    background-color: aqua;
+}
+#Pontuação{
+    font-family: "Permanent Marker", cursive;
+    font-size: 80px;
+    text-align: center;
+}
+#Reiniciarbtn{
+    font-family: "Permanent Marker", cursive;
+    font-size: 19px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
+body{
+background-color: aqua;
+}
